@@ -37,3 +37,7 @@ Key Insights:
 Device age significantly impacts pricing,
 Brand and specifications influence resale value, and 
 Optimized pricing improves competitiveness.
+
+Results:
+Built a predictive model for pricing, and
+Improved pricing accuracy using ML techniques
