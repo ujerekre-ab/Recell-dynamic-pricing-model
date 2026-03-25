@@ -1,39 +1,39 @@
 # Recell-dynamic-pricing-model
 Machine learning model for dynamic pricing of used and refurbished devices
-Objective
+Objective:
 
 Develop a machine learning model to dynamically price used and refurbished devices based on features such as age, brand, and specifications.
 
-Tools & Technologies
+Tools & Technologies:
 
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib / Seaborn
-Statsmodels
+Python,
+Pandas, NumPy,
+Scikit-learn,
+Matplotlib / Seaborn, and
+Statsmodels.
 
-Project Workflow
+Project Workflow:
 
-Data cleaning and preprocessing
-Exploratory Data Analysis (EDA)
-Feature engineering
-Model building (Regression models)
-Model evaluation and optimization
+Data cleaning and preprocessing,
+Exploratory Data Analysis (EDA),
+Feature engineering,
+Model building (Regression models), and
+Model evaluation and optimization.
 
-Key Features Used
+Key Features Used:
 
-Device age
-Brand
-Specifications
-Historical pricing data
+Device age,
+Brand Name,
+Specifications, and
+Historical pricing data.
 
-Model Used
+Model Used:
 
-Linear Regression
-Linear Regression Assumptions
+Linear Regression, and
+Linear Regression Assumptions.
 
-Key Insights
+Key Insights:
 
-Device age significantly impacts pricing
-Brand and specifications influence resale value
-Optimized pricing improves competitiveness
+Device age significantly impacts pricing,
+Brand and specifications influence resale value, and 
+Optimized pricing improves competitiveness.
