@@ -11,6 +11,25 @@ Develop a predictive model that dynamically estimates the optimal resale price o
 * **Statistical Modeling:** Statsmodels
 * **Data Visualization:** Matplotlib, Seaborn
 
+## Business Questions
+- What factors most strongly influence resale value?
+- How much does device age affect price?
+- Does brand reputation justify premium pricing?
+- Can machine learning improve pricing consistency over manual methods?
+  
+  ## Skills Demonstrated
+- Data Cleaning
+- Feature Engineering
+- Statistical Analysis
+- Regression Modeling
+- Machine Learning
+- Model Validation
+- Data Visualization
+- Python
+- Pandas
+- Scikit-Learn
+- Statsmodels
+  
 ## Feature Engineering & Predictors
 To maximize the predictive power of the model, the feature matrix utilizes:
 * **Hardware Tiering:** Processor specifications, RAM, storage capacities, and screen dimensions.
@@ -40,13 +59,13 @@ To maximize the predictive power of the model, the feature matrix utilizes:
 ## Model Performance & Business Impact
 
 ### Test Set Validation Metrics
-The model demonstrated strong generalization capabilities on unseen testing data, proving its readiness for live deployment:
+The model demonstrated strong generalization capabilities on unseen testing data, demonstrating strong predictive performance on unseen test data and potential applicability to pricing decision support.
 * **Coefficient of Determination ($R^2$ Score):** **0.829191** — The engineered features successfully explain **82.9%** of the variance in device pricing.
 * **Root Mean Squared Error (RMSE):** **0.241178** — Indicates a highly constrained error margin, ensuring tight, reliable automated pricing valuations.
 
 ### Core Analytical Insights
 * **The Decay Factor:** Device age demonstrated a severe, non-linear negative correlation with price, serving as the heaviest statistical weight in the valuation matrix.
-* **Brand Premium Quantification:** The model successfully isolated and quantified the specific pricing premium that tier-1 brands hold over generic manufacturers, allowing for automated margin inflation on premium stock.
+* **Brand Premium Quantification:** Brand reputation was a significant predictor of resale value, with premium brands consistently retaining higher market prices. allowing for automated margin inflation on premium stock.
 * **Operational Accuracy:** Transitioning from manual pricing rules to this ML-driven approach minimizes human valuation errors and optimizes inventory turnover speeds.
 
 ## Diagnostic & Performance Plots
