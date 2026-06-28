@@ -79,4 +79,8 @@ The model demonstrated strong generalization capabilities on unseen testing data
 
 <img width="589" height="463" alt="download" src="https://github.com/user-attachments/assets/90ecbbec-222d-46fc-b7d0-a8fd19ef5c84" />
 
+<img width="1795" height="813" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/686c7d83-01db-45a7-8138-260e2fddf7e0" />
 
+<img width="1742" height="161" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/16d7abc8-548f-49ac-a781-b58fbf14921b" />
+
+<img width="1732" height="684" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/e0e5780a-1d9d-4290-95eb-95217adaf016" />
