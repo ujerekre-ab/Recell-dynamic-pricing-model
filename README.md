@@ -4,6 +4,12 @@ An end-to-end machine learning regression pipeline built to automate and optimiz
 ## Business Objective
 Develop a predictive model that dynamically estimates the optimal resale price of refurbished devices. By analyzing hardware specifications, historical market trends, and product degradation metrics, the model maximizes profit margins while maintaining marketplace competitiveness.
 
+## Dataset Overview
+- Number of observations: 3454
+- Number of features: 49
+- Target Variable: Price
+- Industry: Consumer Electronics
+
 ## Tech Stack & Libraries
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
