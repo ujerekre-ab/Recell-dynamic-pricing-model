@@ -23,7 +23,7 @@ Develop a predictive model that dynamically estimates the optimal resale price o
 - Does brand reputation justify premium pricing?
 - Can machine learning improve pricing consistency over manual methods?
   
-  ## Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
 - Feature Engineering
 - Statistical Analysis
